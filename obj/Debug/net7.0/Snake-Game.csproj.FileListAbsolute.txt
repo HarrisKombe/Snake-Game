@@ -1,0 +1,5 @@
+/Users/harrismorgan/Desktop/Snake-Game/obj/Debug/net7.0/Snake-Game.csproj.AssemblyReference.cache
+/Users/harrismorgan/Desktop/Snake-Game/obj/Debug/net7.0/Snake-Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrismorgan/Desktop/Snake-Game/obj/Debug/net7.0/Snake-Game.AssemblyInfoInputs.cache
+/Users/harrismorgan/Desktop/Snake-Game/obj/Debug/net7.0/Snake-Game.AssemblyInfo.cs
+/Users/harrismorgan/Desktop/Snake-Game/obj/Debug/net7.0/Snake-Game.csproj.CoreCompileInputs.cache
